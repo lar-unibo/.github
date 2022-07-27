@@ -1,7 +1,8 @@
 # Laboratory of Automation and Robotics (UNIBO) #
 
-Greetings from Bologna, Italy! We are the laboratory of Automation and Robotics, where we and our students focus on the developments of robotics projects in several industrail scenarios.  
-For example, non-prensile manipulaton :
+Greetings from Bologna, Italy! We are the laboratory of Automation and Robotics, where we and our students focus on the developments of robotics projects in several industrial scenarios.
+
+For example, non-prensile manipulation :
 
 <p align="center">
   <img width="480" height="270" src="video/robot_waiter.gif">
@@ -18,7 +19,7 @@ ________________________________
 
 ## We are currently working on the project  [REMODEL](https://link-url-here.org)! ##
 
-REMODEL is an european projects lead by the university of Bologna, His objective is the development technologies and solutions for the <b> <u>Robotic </u></b>  <b> <u>manipulation </u></b>  and <b> <u>perception </u></b>  of deformable linear objects (DLOs) like electrical wires, harnesses and medical hoose.
+REMODEL is an European projects lead by the University of Bologna. Its objective is the development technologies and solutions for the <b> <u>Robotic </u></b>  <b> <u>manipulation </u></b>  and <b> <u>perception </u></b>  of deformable linear objects (DLOs) like electrical wires, harnesses and medical hoose.
 <p align="center">
   <img width="480" height="270" src="video/pin2pin.gif">
 </p>
